@@ -5,4 +5,5 @@
 * [Program](untitled.md)
 * [People](people.md)
 * [Applications](applications.md)
+* [Logistics](logistics.md)
 
