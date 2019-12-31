@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Workshop and Residency](README.md)
-* [People](people.md)
-* [Program](untitled.md)
 * [Location](location.md)
+* [Program](untitled.md)
+* [People](people.md)
 * [Applications](applications.md)
 

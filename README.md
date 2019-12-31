@@ -1,16 +1,14 @@
+---
+description: June 2020
+---
+
 # Workshop and Residency
 
 Talladega is an ecology-focused artist workshop and residency hosted in Talladega, Alabama for two weeks in early June of 2020. Headquartered at a house on Logan Martin Lake, the program is centered around a series of field trips to ecologically important sites in central Alabama with scheduled lectures, studio work, and time for exploration.
 
-![](.gitbook/assets/img_6275.jpg)
-
-{% embed url="https://vimeo.com/382195118" %}
-
-
-
-![](.gitbook/assets/img_6389-1.HEIC)
-
 2020 will be the first operating year.
+
+![](.gitbook/assets/img_6275.jpg)
 
 ## Natural Setting
 
