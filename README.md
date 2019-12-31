@@ -6,8 +6,6 @@ Talladega is an ecology-focused artist workshop and residency hosted in Talladeg
 
 ![](.gitbook/assets/img_6389-1.HEIC)
 
-![](.gitbook/assets/img_6389-1.HEIC)
-
 2020 will be the first operating year.
 
 ## Natural Setting
