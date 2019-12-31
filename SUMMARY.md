@@ -1,6 +1,8 @@
 # Table of contents
 
-* [About](README.md)
+* [First Annual Residency in Talladega AL](README.md)
 * [People](people.md)
-* [Untitled](untitled.md)
+* [Program](untitled.md)
+* [Location](location.md)
+* [Applications](applications.md)
 
