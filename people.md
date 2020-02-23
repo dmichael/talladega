@@ -2,7 +2,7 @@
 
 ## David Michael
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+David Michael is a professional field recordist and software engineer with a Masters in Science in Evolutionary and Adaptive Systems from the University of Sussex in Brighton, UK, and a Bachelors of Music, Music Business and Technology from New York University. He has performed at The Whitney Museum of American Art in collaboration with Toshok Labs. David worked at the Cornell Lab of Ornithology, in the Bioacoustics Research Program. He has also been a programmer for Sony Music, and lectured at SUNY Purchase and SFMA Boston on field recording theory, practice, and its place in Sound Art. David has published works on labels including Gruenrekorder, 3LEAVES, Impusive Habitat, and others; authored a paper that appeared in Organised Sound; and collaborated with sound artists Kim Cascone and Darius Ciuta on a project called T : t ↦ -t. His work may be found online at davidmmichael.carbonmade.com.
 
 ## Michael Clemow
 
