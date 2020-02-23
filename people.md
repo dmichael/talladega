@@ -12,3 +12,7 @@ Mike graduated from the Interactive Telecommunications Program at NYU in 2009.  
 
 ## Kit Brown King
 
+A naturalist, mycological enthusiast (@stellanunu), and lifelong resident of Alabama, Kit Brown King is an advocate for environmental justice and conservation efforts in the state of Alabama. In 2020 she is collecting temperature and turbididty data for the  [Coosa Riverkeeper](coosariver.org) and is a certified citizen scientist with [FrogWatch USA](https://www.aza.org/frogwatch) helping to identify and report anuran populations.
+
+Kit will be hosting our group at her lake house on Logan Martin Lake and assisting in logistics and field work.
+
